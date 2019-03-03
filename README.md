@@ -26,3 +26,9 @@ setxkbmap -model abnt2 -layout br _This command set the layout keyboard for braz
 
 refs: --bssid or -a is Mac Adress of Router and -c is Mac of device connected.
 
+---
+
+**Install packages**
+(https://docs.kali.org/general-use/kali-linux-sources-list-repositories)[Links for insert in list]
+
+
