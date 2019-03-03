@@ -29,6 +29,8 @@ refs: --bssid or -a is Mac Adress of Router and -c is Mac of device connected.
 ---
 
 **Install packages**
-(https://docs.kali.org/general-use/kali-linux-sources-list-repositories)[Links for insert in list]
 
+(https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 
+Two links for insert in /etc/apt/sources.list
+ex: nano /etc/apt/sources.list
